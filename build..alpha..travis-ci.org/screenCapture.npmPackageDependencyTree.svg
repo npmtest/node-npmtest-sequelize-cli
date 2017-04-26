@@ -41,7 +41,7 @@
 <tspan x="10" y="618">  │ │ │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="634">  │ │ ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="650">  │ │ ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="666">  │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="666">  │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="682">  │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="698">  │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="714">  │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -122,7 +122,7 @@
 <tspan x="10" y="1914">  │ │ └─┬ vinyl@0.5.3 </tspan>
 <tspan x="10" y="1930">  │ │   ├── clone@1.0.2 </tspan>
 <tspan x="10" y="1946">  │ │   └── clone-stats@0.0.1 </tspan>
-<tspan x="10" y="1962">  │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="1962">  │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="1978">  │ ├─┬ liftoff@2.3.0 </tspan>
 <tspan x="10" y="1994">  │ │ ├── extend@3.0.0 </tspan>
 <tspan x="10" y="2010">  │ │ ├─┬ fined@1.0.2 </tspan>
@@ -153,7 +153,7 @@
 <tspan x="10" y="2410">  │ ├── semver@4.3.6 </tspan>
 <tspan x="10" y="2426">  │ ├─┬ tildify@1.2.0 </tspan>
 <tspan x="10" y="2442">  │ │ └── os-homedir@1.0.2 </tspan>
-<tspan x="10" y="2458">  │ ├─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="2458">  │ ├─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="2474">  │ │ └── user-home@1.1.1 </tspan>
 <tspan x="10" y="2490">  │ └─┬ vinyl-fs@0.3.14 </tspan>
 <tspan x="10" y="2506">  │   ├── defaults@1.0.3 </tspan>
@@ -209,9 +209,9 @@
 <tspan x="10" y="3306">  │   └── abbrev@1.1.0 </tspan>
 <tspan x="10" y="3322">  ├── lodash@4.17.4 </tspan>
 <tspan x="10" y="3338">  ├── moment@2.18.1 </tspan>
-<tspan x="10" y="3354">  ├─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="3354">  ├─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="3370">  │ └── path-parse@1.0.5 </tspan>
-<tspan x="10" y="3386">  ├─┬ umzug@1.11.0 </tspan>
+<tspan x="10" y="3386">  ├─┬ umzug@1.12.0 </tspan>
 <tspan x="10" y="3402">  │ └── redefine@0.2.1 </tspan>
 <tspan x="10" y="3418">  └─┬ yargs@7.1.0 </tspan>
 <tspan x="10" y="3434">    ├── camelcase@3.0.0 </tspan>
@@ -234,7 +234,7 @@
 <tspan x="10" y="3706">    │   │ │   └── is-arrayish@0.2.1 </tspan>
 <tspan x="10" y="3722">    │   │ ├── pify@2.3.0 </tspan>
 <tspan x="10" y="3738">    │   │ └── strip-bom@2.0.0 </tspan>
-<tspan x="10" y="3754">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="3754">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="3770">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="3786">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="3802">    │   │ │ └── builtin-modules@1.1.1 </tspan>
