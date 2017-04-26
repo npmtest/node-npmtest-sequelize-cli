@@ -1,6 +1,6 @@
 # npmtest-sequelize-cli
 
-#### test coverage for  [sequelize-cli (v2.7.0)](https://github.com/sequelize/cli)  [![npm package](https://img.shields.io/npm/v/npmtest-sequelize-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sequelize-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sequelize-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-sequelize-cli)
+#### basic test coverage for  [sequelize-cli (v2.7.0)](https://github.com/sequelize/cli)  [![npm package](https://img.shields.io/npm/v/npmtest-sequelize-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sequelize-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sequelize-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-sequelize-cli)
 
 #### The Sequelize CLI
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-sequelize-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-sequelize-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sequelize-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sequelize-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sequelize-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sequelize-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-sequelize-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-sequelize-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sequelize-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sequelize-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-sequelize-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-sequelize-cli/build/coverage.html/index.html)
 
